@@ -26,7 +26,7 @@ $currentTime = date("d M Y h:i:s A");
                 </h1>
 
                 <p class="lead">
-                    PHP + Bootstrap Test Application
+                    PHP + Bootstrap Test Application fine
                 </p>
             </div>
 
